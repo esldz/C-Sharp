@@ -1,0 +1,8 @@
+C:\Users\esmanur\Desktop\C#\foreeach_gecenler_kalanlar\foreeach_gecenler_kalanlar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\esmanur\Desktop\C#\foreeach_gecenler_kalanlar\foreeach_gecenler_kalanlar\obj\Debug\foreeach_gecenler_kalanlar.Form1.resources
+C:\Users\esmanur\Desktop\C#\foreeach_gecenler_kalanlar\foreeach_gecenler_kalanlar\obj\Debug\foreeach_gecenler_kalanlar.Properties.Resources.resources
+C:\Users\esmanur\Desktop\C#\foreeach_gecenler_kalanlar\foreeach_gecenler_kalanlar\obj\Debug\foreeach_gecenler_kalanlar.csproj.GenerateResource.Cache
+C:\Users\esmanur\Desktop\C#\foreeach_gecenler_kalanlar\foreeach_gecenler_kalanlar\bin\Debug\foreeach_gecenler_kalanlar.exe
+C:\Users\esmanur\Desktop\C#\foreeach_gecenler_kalanlar\foreeach_gecenler_kalanlar\bin\Debug\foreeach_gecenler_kalanlar.pdb
+C:\Users\esmanur\Desktop\C#\foreeach_gecenler_kalanlar\foreeach_gecenler_kalanlar\obj\Debug\foreeach_gecenler_kalanlar.exe
+C:\Users\esmanur\Desktop\C#\foreeach_gecenler_kalanlar\foreeach_gecenler_kalanlar\obj\Debug\foreeach_gecenler_kalanlar.pdb
