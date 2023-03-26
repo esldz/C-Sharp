@@ -1,0 +1,8 @@
+C:\Users\esmanur\Desktop\C#\takim_eslesme\takim_eslesme\bin\Debug\takim_eslesme.exe
+C:\Users\esmanur\Desktop\C#\takim_eslesme\takim_eslesme\bin\Debug\takim_eslesme.pdb
+C:\Users\esmanur\Desktop\C#\takim_eslesme\takim_eslesme\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\esmanur\Desktop\C#\takim_eslesme\takim_eslesme\obj\Debug\takim_eslesme.Form1.resources
+C:\Users\esmanur\Desktop\C#\takim_eslesme\takim_eslesme\obj\Debug\takim_eslesme.Properties.Resources.resources
+C:\Users\esmanur\Desktop\C#\takim_eslesme\takim_eslesme\obj\Debug\takim_eslesme.csproj.GenerateResource.Cache
+C:\Users\esmanur\Desktop\C#\takim_eslesme\takim_eslesme\obj\Debug\takim_eslesme.exe
+C:\Users\esmanur\Desktop\C#\takim_eslesme\takim_eslesme\obj\Debug\takim_eslesme.pdb
